@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <LineStyle id="5">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="3">
+            <name>output_address3.kml</name>
+            <styleUrl>#4</styleUrl>
+            <LineString id="2">
+                <coordinates>-73.6084121,45.5570258,0.0 -73.6085677,45.5571269,0.0 -73.6089647,45.5567288,0.0 -73.6019695,45.5536486,0.0 -73.6037075,45.5517028,0.0 -73.6040187,45.5513271,0.0 -73.6005533,45.5497268,0.0 -73.5992765,45.5512069,0.0 -73.5958433,45.5551512,0.0 -73.5940301,45.5573298,0.0 -73.5994053,45.5592529,0.0 -73.5991049,45.5570894,0.0 -73.6005318,45.5552338,0.0 -73.6014545,45.5542497,0.0 -73.6083853,45.5572697,0.0 -73.8109655,45.505431,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

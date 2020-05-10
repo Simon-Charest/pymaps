@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Birthplace</name>
+            <Point id="2">
+                <coordinates>-73.8097102,45.5054197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Laurent's Former Apartment</name>
+            <Point id="4">
+                <coordinates>-73.6119068,45.5371333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Father's Former Place</name>
+            <Point id="6">
+                <coordinates>-73.2627598,45.474859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Ex Parents' Place</name>
+            <Point id="8">
+                <coordinates>-73.5860777,45.5780891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>First Apartment</name>
+            <Point id="10">
+                <coordinates>-73.6023529,45.5860001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Ex's Place</name>
+            <Point id="12">
+                <coordinates>-73.54190799999999,45.54648299999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Current Home</name>
+            <Point id="14">
+                <coordinates>-73.608414,45.557021,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
